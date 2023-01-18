@@ -1,0 +1,2 @@
+Escribir archibos en Python
+Escribiendo dentro del archivo creado en python
